@@ -1,0 +1,10 @@
+out/
+build/
+*.o
+carrier_pad.s
+src/carrier.s
+src/protocol.h
+src/runmode.h
+tools/zstool
+payload/bin/
+*.zip
